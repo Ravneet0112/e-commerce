@@ -22,7 +22,10 @@ To begin with, user has to login into mysql by using mysql -u root -p. Then they
 To create, update, delete and get data by category, product and ID.
     
 ## Contribution
-The GitHub repository is as follow: https://github.com/Ravneet0112/e-commerce 
+The GitHub repository is as follow: https://github.com/Ravneet0112/e-commerce
+Walk-through catergory video: https://drive.google.com/file/d/1tM8pcvdNmqI3MEeKoMYFeMu0EII4IvB-/view
+Walk-through product video: https://drive.google.com/file/d/1MznFoJT8QNkGNMQwr5GmUmQen2fSHKlf/view
+Walk-through tag video : https://drive.google.com/file/d/1dSy7YwgQXVH2J74dV8QD-I6iNPiAj5yc/view
 
 ## Instructions
 User can run node server.js to run file.
